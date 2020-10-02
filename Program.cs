@@ -10,6 +10,9 @@ namespace IntToStringConverter
     {
         static void Main(string[] args)
         {
+            Converter.intToString(999);
+
+            Console.Read();
         }
     }
 }

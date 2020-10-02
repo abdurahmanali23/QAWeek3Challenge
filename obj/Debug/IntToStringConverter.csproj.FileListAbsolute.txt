@@ -1,0 +1,7 @@
+c:\users\administrator\source\repos\IntToStringConverter\IntToStringConverter\bin\Debug\IntToStringConverter.exe.config
+c:\users\administrator\source\repos\IntToStringConverter\IntToStringConverter\bin\Debug\IntToStringConverter.exe
+c:\users\administrator\source\repos\IntToStringConverter\IntToStringConverter\bin\Debug\IntToStringConverter.pdb
+c:\users\administrator\source\repos\IntToStringConverter\IntToStringConverter\obj\Debug\IntToStringConverter.csprojAssemblyReference.cache
+c:\users\administrator\source\repos\IntToStringConverter\IntToStringConverter\obj\Debug\IntToStringConverter.csproj.CoreCompileInputs.cache
+c:\users\administrator\source\repos\IntToStringConverter\IntToStringConverter\obj\Debug\IntToStringConverter.exe
+c:\users\administrator\source\repos\IntToStringConverter\IntToStringConverter\obj\Debug\IntToStringConverter.pdb
